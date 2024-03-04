@@ -15,7 +15,6 @@ Este projeto é um estudo prático focado no desenvolvimento de páginas web com
 
 - Layout responsivo: adapta-se a diferentes tamanhos de tela.
 - Navegação intuitiva: menu responsivo que se ajusta conforme o dispositivo.
-- Design moderno: uso de cores, fontes e elementos gráficos contemporâneos.
 
 ## Visualizar o projeto
 Basta acessar o link https://site-repostivo-html-css.vercel.app/ ou fazer um gitclone
